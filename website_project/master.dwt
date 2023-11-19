@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	font-size: xx-large;
+}
+</style>
+</head>
+
+<body>
+<div style="position: absolute; width: 104px; height: 655px; z-index: 1; left: 1px; top: -1px; background-color: #00FFFF;" id="layer1">
+
+	Βιβλίο με guidelines<br />
+&nbsp;(σελ 35) 5:1 Enable access to the homepage. 
+	(Εφαρμόστηκε σε όλη την σελίδα.)<br />
+	<br />
+	(σελ 37) 5:3 Create a positive first impression of your site <br />
+	(Εφαρμόστηκε στην αρχική σελίδα)<br />
+	<br />
+	(σελ 38) 5:4 Communicate the web site's Value and Purpose<br />
+	(Εφαρμόστηκε σε όλη την σελίδα.)<br />
+	<br />
+	(σελ 45) 6:1<br />
+	Avoid clutterd Displays<br />
+	(Εφαρμόστηκε σε όλη την σελίδα.)<br />
+	<br />
+	(σελ 46) 6:2<br />
+	Place important Items Consistently<br />
+	(Εφαρμόστηκε σε όλη την σελίδα.)<br />
+	<br />
+	(σελ 64) 7:6<br />
+	Use Descriptive Tab Labels<br />
+	(Εφαρμόστηκε σε όλη την σελίδα.)<br />
+	<br />
+	<br />
+	<br />
+	<br />
+</div>
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h1 class="auto-style1">Οργανισμος προστασιας φυσης</h1>
+		<h3>με συνεχή δράση από το 1951</h3>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="default.html">Αρχική</a></li>
+			<li><a href="about/default.html">Πληροφορίες</a></li>
+			<li><a href="news/default.html">Νέα</a></li>
+			<li><a href="calendar/default.html">Ημερολόγιο</a></li>
+			<li><a href="photo_gallery/default.html">Γκαλερή</a></li>
+			<li><a href="information_links/default.html">Σύνδεσμοι</a></li>
+			<li><a href="faq/default.html">FAQ</a></li>
+			<li><a href="contact/default.html">Επικοινωνία</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Content -->
+		<div id="content">
+			<!-- #BeginEditable "content" -->
+			<h2>Λίγα λόγια για εμάς</h2>
+			<p>Η Ελληνική Εταιρία Προστασίας της Φύσης είναι Περιβαλλοντική Μη Κυβερνητική Οργάνωση πανελλήνιας εμβέλειας που δραστηριοποιείται συνεχώς από το 1951 για την προστασία του Ελληνικού φυσικού περιβάλλοντος.
+
+Έχει ως αποστολή της να ενημερώνει και να ευαισθητοποιεί,τόσο τους Έλληνες όσο και αυτούς που αγαπούν την Ελλάδα για τη φυσική κληρονομιά της χώρας μας και να δραστηριοποιείται για τη προστασία της.</p>
+			<!-- #EndEditable --></div>
+		<!-- End Content -->
+		<!-- Begin Sidebar -->
+		<div id="sidebar">
+			<!-- #BeginEditable "sidebar" -->
+			<h3>Τομείς Δράσης</h3>
+			<ul>
+				<li>Προγράμματα αειφόρου ανάπτυξης</li>
+				<li>Εκπαιδευτικά Προγράμματα</li>
+				<li>Έργα και προγράμματα</li>
+				<li>Παρεμβάσεις</li>
+			</ul>
+			<!-- #EndEditable --></div>
+		<!-- End Sidebar --></div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="default.html">Αρχική</a> | <a href="about/default.html">Πληροφορίες</a> 
+		| <a href="news/default.html">Νέα</a> | <a href="calendar/default.html">
+		Ημερολόγιο</a> | <a href="photo_gallery/default.html">Γκαλερή</a> |
+		<a href="information_links/default.html">Σύνδεσμοι</a> |
+		<a href="faq/default.html">FAQ</a> | <a href="contact/default.html">Επικοινωνία</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
